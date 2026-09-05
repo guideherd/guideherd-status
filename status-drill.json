@@ -1,0 +1,21 @@
+{
+ "schema": "guideherd-public-status/1",
+ "generatedAt": "2026-08-08T19:06:27.000Z",
+ "staleAfterMinutes": 240,
+ "overall": "unavailable",
+ "components": {
+  "api": "unavailable",
+  "webApplication": "operational",
+  "coreCapabilities": "unknown"
+ },
+ "history": [
+  {
+   "at": "2026-08-08T19:06:27.000Z",
+   "api": "unavailable",
+   "webApplication": "operational",
+   "coreCapabilities": "unknown",
+   "overall": "unavailable"
+  }
+ ],
+ "drill": true
+}
