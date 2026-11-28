@@ -1,0 +1,2365 @@
+{
+ "schema": "guideherd-public-status/1",
+ "generatedAt": "2026-11-28T20:07:41.000Z",
+ "staleAfterMinutes": 240,
+ "overall": "operational",
+ "components": {
+  "api": "operational",
+  "webApplication": "operational",
+  "coreCapabilities": "operational"
+ },
+ "history": [
+  {
+   "at": "2026-11-22T06:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T07:07:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T07:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T08:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T08:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T09:07:38.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T09:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T10:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T10:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T11:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T11:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T12:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T12:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T13:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T13:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T14:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T14:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T14:50:04.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T15:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T15:37:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T16:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T16:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T17:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T17:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T18:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T18:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T19:07:38.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T19:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T20:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T20:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T20:59:23.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T21:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T21:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T22:07:38.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T22:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T23:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-22T23:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T00:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T00:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T01:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T01:31:51.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T01:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T02:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T02:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T03:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T03:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T04:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T04:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T05:07:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T05:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T06:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T06:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T07:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T07:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T08:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T08:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T09:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T09:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T09:41:32.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T10:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T10:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T11:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T11:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T12:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T12:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T13:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T13:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T14:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T14:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T15:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T15:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T16:07:50.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T16:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T17:07:51.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T17:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T18:07:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T18:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T19:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T19:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T20:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T20:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T21:07:59.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T21:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T21:59:10.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T22:07:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T22:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T23:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-23T23:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T00:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T00:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T01:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T01:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T02:07:49.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T02:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T03:07:48.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T03:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T04:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T04:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T05:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T05:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T05:53:26.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T06:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T06:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T07:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T07:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T08:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T08:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T09:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T09:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T10:07:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T10:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T11:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T11:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T12:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T12:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T13:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T13:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T14:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T14:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T15:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T15:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T16:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T16:37:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T17:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T17:29:02.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T17:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T18:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T18:37:52.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T19:07:47.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T19:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T20:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T20:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T21:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T21:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T22:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T22:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T23:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-24T23:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T00:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T00:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T01:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T01:32:05.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T01:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T02:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T02:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T03:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T03:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T04:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T04:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T05:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T05:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T06:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T06:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T07:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T07:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T08:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T08:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T09:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T09:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T10:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T10:21:56.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T10:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T11:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T11:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T12:07:47.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T12:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T13:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T13:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T14:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T14:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T15:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T15:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T16:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T17:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T17:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T18:07:53.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T18:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T19:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T19:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T20:06:09.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T20:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T20:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T21:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T21:37:47.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T22:07:47.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T22:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T23:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-25T23:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T00:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T00:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T01:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T01:37:38.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T02:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T02:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T02:46:13.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T03:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T03:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T04:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T04:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T05:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T05:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T06:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T06:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T07:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T07:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T08:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T08:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T09:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T09:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T10:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T10:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T11:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T11:37:47.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T12:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T12:12:33.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T12:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T13:01:51.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T13:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T13:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T14:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T14:20:30.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T14:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T15:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T15:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T16:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T16:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T17:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T17:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T18:02:35.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T18:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T18:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T19:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T19:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T20:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T20:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T21:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T21:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T21:51:29.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T22:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T22:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T23:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-26T23:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T00:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T00:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T01:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T01:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T02:07:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T02:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T03:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T03:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T04:04:53.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T04:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T04:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T05:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T05:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T06:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T06:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T07:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T07:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T08:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T08:37:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T09:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T09:37:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T10:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T10:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T11:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T11:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T12:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T12:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T13:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T13:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T13:44:18.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T14:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T14:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T15:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T15:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T16:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T16:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T17:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T17:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T18:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T18:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T19:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T19:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T20:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T20:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T21:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T21:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T22:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T22:37:37.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T22:37:57.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T23:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-27T23:37:46.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T00:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T00:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T01:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T01:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T02:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T02:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T03:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T03:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T04:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T04:37:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T04:40:27.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T05:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T05:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T06:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T06:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T07:07:45.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T07:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T08:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T08:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T09:07:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T09:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T10:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T10:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T11:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T11:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T12:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T12:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T13:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T13:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T14:02:59.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T14:07:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T14:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T15:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T15:37:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T16:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T16:37:42.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T17:07:44.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T17:37:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T18:07:43.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T18:37:40.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T19:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T19:37:39.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  },
+  {
+   "at": "2026-11-28T20:07:41.000Z",
+   "api": "operational",
+   "webApplication": "operational",
+   "coreCapabilities": "operational",
+   "overall": "operational"
+  }
+ ]
+}
